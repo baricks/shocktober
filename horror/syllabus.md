@@ -29,7 +29,7 @@
 
 ### The disabled body
 * Readings:
-      * ["Violence, Women, and Disability in Tod Browning's Freaks and The Devil Doll"](https://www.tandfonline.com/doi/abs/10.1080/01956059809602778?journalCode=vjpf20)
+  * ["Violence, Women, and Disability in Tod Browning's Freaks and The Devil Doll"](https://www.tandfonline.com/doi/abs/10.1080/01956059809602778?journalCode=vjpf20)
 * Films:
   * Freaks (1932)
   * The Devils (1971)
