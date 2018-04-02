@@ -35,7 +35,7 @@
   * The Devils (1971)
 
 ## Gothic horror
-### Vampirism and Otherness/Queerness
+### Vampirism and Otherness
 * Readings:
     * Selections from [Metamorphoses of the Vampire in Literature and Film: Cultural Transformations in Europe, 1732-1933](https://books.google.com/books?id=OsZNXfHW9SMC), Eric Butler
     *
