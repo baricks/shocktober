@@ -1,4 +1,4 @@
-# Syllabus
+# Horror sub-genres
 
 ## Body horror
 ### Cronenberg & visceral horror
@@ -7,7 +7,6 @@
     * Dylan Trigg, ["The Return of the New Flesh: Body Memory in David Cronenberg and Merleau-Ponty"](https://www.film-philosophy.com/index.php/f-p/article/view/112)
     * Douglas Kellner, ["David Cronenberg: Panic Horror and the Postmodern Body"](http://www.ctheory.net/library/volumes/Vol%2013%20No%203/VOL13_NO3_4.pdf)
     * Martin Ham, ["Excess and Resistance in Feminised Bodies: David Cronenberg’s Videodrome and Jean Baudrillard’s Seduction"](http://sensesofcinema.com/2004/perversion/videodrome_seduction/)
-    * More readings: http://www.lib.berkeley.edu/MRC/cronenberg.html
 * Films:
     * Scanners (1981)
     * Videodrome (1983)
@@ -156,5 +155,6 @@
   * Jaws
   * The Thing
 
-# Sources:
+# Additional sources
 https://ssl.uh.edu/~cfreelan/courses/aesthetics/HorrorBiblio.htm
+http://www.lib.berkeley.edu/MRC/cronenberg.html
