@@ -75,7 +75,7 @@
 * 1987 - [The Stepfather](https://www.youtube.com/watch?v=zdKzH-Rh31g)
 * 1988 - [Dead Ringers](https://www.youtube.com/watch?v=-ZHbu3msmes)
 * 1988 - [Spoorloos/The Vanishing](https://www.youtube.com/watch?v=ZIuBuGWCuZo)
-* 1988 = [Akira](https://www.youtube.com/watch?v=7mdMtuGL7eg)
+* 1988 - [Akira](https://www.youtube.com/watch?v=7mdMtuGL7eg)
 
 ## 1990-1999
 * 1990 - [Misery](https://www.youtube.com/watch?v=XHQ9CPRfDsw)
