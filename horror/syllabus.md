@@ -1,7 +1,6 @@
 # Syllabus
 
 ## Body horror
-
 ### Cronenberg & visceral horror
 * Readings:
     * Selections from [The Philosophy of David Cronenberg](https://danwin1210.me/uploads/F3thinker%20%21%20-%20What%20do%20YOU%20Think%20%21./David%20Cronenberg.pdf), ed. Simon Riches
@@ -35,9 +34,7 @@
       * Freaks (1932)
       * The Devils (1971)
 
-
 ## Gothic horror
-
 ### Vampirism and Otherness/Queerness
 * Readings:
     * Selections from [Metamorphoses of the Vampire in Literature and Film: Cultural Transformations in Europe, 1732-1933](https://books.google.com/books?id=OsZNXfHW9SMC), Eric Butler
@@ -63,9 +60,7 @@
       * The Devil's Backbone (2001)
       * The Orphanage (2007)
 
-
 ## Science fiction horror
-
 ### Monster-baby anxieties
 * Readings:
     * Selections from [The 'Evil Child' in Literature, Film and Popular Culture](https://books.google.com/books/about/The_Evil_Child_in_Literature_Film_and_Po.html?id=5bqMAQAAQBAJ), ed. Karen J. Renner
@@ -80,7 +75,6 @@
 1988 = [Akira](https://www.youtube.com/watch?v=7mdMtuGL7eg)
 1986 - [From Beyond](https://www.youtube.com/watch?v=d3D9O9vrDjw)
 
-
 ## Religious horror
 * Films:
     * The Exorcist (1973)
@@ -88,9 +82,7 @@
     * The Devils (1971)
     * The House of the Devil (2009)
 
-
 ## Psychological horror
-
 ### Schizophrenia and the city
 * Readings:
     * Davide Caputo, [Polanski and Perception: The Psychology of Seeing and the Cinema of Roman Polanski](https://books.google.com/books?id=iu7cx3KxpO0C)
@@ -107,13 +99,12 @@
     * Lost Highway (1997)
     * Inland Empire (2006)
 
-# Werewolves
+## Werewolves
 * Films:
     * Cat People (1942)
     * An American Werewolf in London (1981)
 
 ## Zombies
-
 ### McCarthy-era paranoia
     * Readings:
     * Films:
@@ -134,7 +125,6 @@
         * The Innkeepers
 
 ## Murder mystery
-
 ### Dario Argento & Italian horror
 * Readings
       * Colette Jane Balmain,  ["Genre, Gender, Giallo: The Disturbed Dreams of Dario Argento"](http://gala.gre.ac.uk/5795/5/Colette%20Jane%20Balmain%202004%20-%20redacted.pdf)
