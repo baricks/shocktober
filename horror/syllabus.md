@@ -31,8 +31,8 @@
 * Readings:
       * ["Violence, Women, and Disability in Tod Browning's Freaks and The Devil Doll"](https://www.tandfonline.com/doi/abs/10.1080/01956059809602778?journalCode=vjpf20)
 * Films:
-      * Freaks (1932)
-      * The Devils (1971)
+  * Freaks (1932)
+  * The Devils (1971)
 
 ## Gothic horror
 ### Vampirism and Otherness/Queerness
@@ -48,17 +48,16 @@
     * Let the Right One In (2008)
 
 ### Southern gothic
-* Readings:
 * Films:
-      * The Night of the Hunter (1955)
+  * The Night of the Hunter (1955)
 
 ### Evil children & the gothic
 * Readings:
       * ["An Outsider Amongst Outsiders: Psychosocial Impact of the Devil's Backbone, The Orphanage, and Mama"](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1285&context=honors_theses)
 * Films:
-      * The Innocents (1961)
-      * The Devil's Backbone (2001)
-      * The Orphanage (2007)
+  * The Innocents (1961)
+  * The Devil's Backbone (2001)
+  * The Orphanage (2007)
 
 ## Science fiction horror
 ### Monster-baby anxieties
@@ -67,13 +66,10 @@
       * Steffen Hantke, ["My Baby Ate the Dingo: The Visual Construction of the Monstrous Infant in Horror Film"](https://books.google.com/books?id=5bqMAQAAQBAJ&pg=PA28&source=gbs_toc_r&cad=3#v=onepage&q&f=false)
       * A. Robin Hoffman, "How to See the Horror: The Hostile Fetus in Rosemary's Baby and Alien"
 * Films:
-      * Rosemary’s Baby (1968)
-      * Eraserhead (1977)
-      * The Brood (1979)
-      * Alien (1979)
-
-1988 = [Akira](https://www.youtube.com/watch?v=7mdMtuGL7eg)
-1986 - [From Beyond](https://www.youtube.com/watch?v=d3D9O9vrDjw)
+  * Rosemary’s Baby (1968)
+  * Eraserhead (1977)
+  * The Brood (1979)
+  * Alien (1979)
 
 ## Religious horror
 * Films:
@@ -88,9 +84,9 @@
     * Davide Caputo, [Polanski and Perception: The Psychology of Seeing and the Cinema of Roman Polanski](https://books.google.com/books?id=iu7cx3KxpO0C)
     * Tarja Laine, ["Imprisoned in Disgust: Roman Polanski's Repulsion"](http://www.film-philosophy.com/index.php/f-p/article/view/275)
 * Films:
-      * Repulsion (1965)
-      * Rosemary's Baby (1968)
-      * The Tenant (1976)
+  * Repulsion (1965)
+  * Rosemary's Baby (1968)
+  * The Tenant (1976)
 
 ### David Lynch
 * Readings:
@@ -106,62 +102,59 @@
 
 ## Zombies
 ### McCarthy-era paranoia
-    * Readings:
-    * Films:
-      * The Evil Dead
-      * Invasion of the Body Snatchers
+* Readings:
+* Films:
+  * The Evil Dead
+  * Invasion of the Body Snatchers
 
 ### Capitalism & paranoia
-    * Readings:
-    * Films:
 
 ## Supernatural horror
-    * Films:
-        * Suspiria
-        * Hausu/House
-        * Inferno
-        * Drag Me to Hell
-        * Carrie
-        * The Innkeepers
+* Films:
+  * Suspiria
+  * Hausu/House
+  * Inferno
+  * Drag Me to Hell
+  * The Innkeepers
 
 ## Murder mystery
 ### Dario Argento & Italian horror
 * Readings
-      * Colette Jane Balmain,  ["Genre, Gender, Giallo: The Disturbed Dreams of Dario Argento"](http://gala.gre.ac.uk/5795/5/Colette%20Jane%20Balmain%202004%20-%20redacted.pdf)
-      * Cynthia Freeland, "Feminist Frameworks for Horror Films," Post-Theory:  Reconstructing Film Studies, Noël Carroll and David Bordwell, eds.
+  * Colette Jane Balmain,  ["Genre, Gender, Giallo: The Disturbed Dreams of Dario Argento"](http://gala.gre.ac.uk/5795/5/Colette%20Jane%20Balmain%202004%20-%20redacted.pdf)
+  * Cynthia Freeland, "Feminist Frameworks for Horror Films," Post-Theory:  Reconstructing Film Studies, Noël Carroll and David Bordwell, eds.
 * Films:
-      * Deep Red (1975)
-      * Suspiria (1977)
-      * Inferno (1980)
-      * Tenebrae (1982)
+  * Deep Red (1975)
+  * Suspiria (1977)
+  * Inferno (1980)
+  * Tenebrae (1982)
 
 ## Slasher
 ### Gender and the slasher
 * Readings:
-      * Carol J. Clover, [Men, Women, and Chainsaws: Gender in the Modern Horror Film](https://books.google.com/books/about/Men_Women_and_Chain_Saws.html?id=x4fLaCLD11MC)
-      *  Carol J. Clover, ["Her Body, Himself: Gender in the Slasher Film"](http://users.clas.ufl.edu/burt/paranoid70scinema/HerBodyHimself.pdf)
+  * Carol J. Clover, [Men, Women, and Chainsaws: Gender in the Modern Horror Film](https://books.google.com/books/about/Men_Women_and_Chain_Saws.html?id=x4fLaCLD11MC)
+  *  Carol J. Clover, ["Her Body, Himself: Gender in the Slasher Film"](http://users.clas.ufl.edu/burt/paranoid70scinema/HerBodyHimself.pdf)
 * Films:
-      * Psycho (1960)
-      * Texas Chainsaw Massacre (1974)
-      * Halloween (1978)
-      * You're Next (2011)
+  * Psycho (1960)
+  * Texas Chainsaw Massacre (1974)
+  * Halloween (1978)
+  * You're Next (2011)
 
 ## Thriller
 * Films:
-    * Misery
-    * The Shining
-    * Spoorloos/The Vanishing
+  * Misery
+  * The Shining
+  * Spoorloos/The Vanishing
 
 ## German Expressionism
 * Films:
-    * The Cabinet of Dr Caligari
-    * The Fall of the House of Usher
+  * The Cabinet of Dr Caligari
+  * The Fall of the House of Usher
 
 ## Monster horror
 * Films:
-    * Night of the Demon
-    * Jaws
-    * The Thing
+  * Night of the Demon
+  * Jaws
+  * The Thing
 
-## Sources:
+# Sources:
 https://ssl.uh.edu/~cfreelan/courses/aesthetics/HorrorBiblio.htm
