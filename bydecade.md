@@ -21,6 +21,7 @@
 * 1958 - [Vertigo](https://www.youtube.com/watch?v=Z5jvQwwHQNY)
 
 ## 1960-1969
+* 1960 - [Black Sunday](https://www.youtube.com/watch?v=mjGX72iCzmI)
 * 1960 - [Psycho](https://www.youtube.com/watch?v=HjI1Of2lfhs)
 * 1960 - [Peeping Tom](https://www.youtube.com/watch?v=nAqEn6JS-oM)
 * 1960 - [Eyes without a Face](https://www.youtube.com/watch?v=2BY6syEApk8)
@@ -61,6 +62,7 @@
 ## 1980-1989
 * 1980 - [Inferno](https://www.youtube.com/watch?v=qbKgG_TC_To)
 * 1980 - [The Shining](https://www.youtube.com/watch?v=i-B_bbkEfS0)
+* 1980 - [Altered States](https://www.youtube.com/watch?v=ZyBE_aKg858)
 * 1981 - [The Evil Dead](https://www.youtube.com/watch?v=GU92dtYrF9I)
 * 1981 - [An American Werewolf in London](https://www.youtube.com/watch?v=_oJZjpHBskc)
 * 1981 - [Scanners](https://www.youtube.com/watch?v=FoIy7Y7H72Q)
@@ -74,24 +76,27 @@
 * 1986 - [The Fly](https://www.youtube.com/watch?v=Z-V3X963DRI)
 * 1987 - [The Stepfather](https://www.youtube.com/watch?v=zdKzH-Rh31g)
 * 1988 - [Dead Ringers](https://www.youtube.com/watch?v=-ZHbu3msmes)
-* 1988 - [Spoorloos/The Vanishing](https://www.youtube.com/watch?v=ZIuBuGWCuZo)
+* 1988 - [The Vanishing](https://www.youtube.com/watch?v=ZIuBuGWCuZo)
 * 1988 - [Akira](https://www.youtube.com/watch?v=7mdMtuGL7eg)
 
 ## 1990-1999
 * 1990 - [Misery](https://www.youtube.com/watch?v=XHQ9CPRfDsw)
 * 1990 - [Henry: Portrait of a Serial Killer](https://www.youtube.com/watch?v=YFGPKShiOX4)
 * 1991 - [The People Under the Stairs](https://www.youtube.com/watch?v=aIH9uDZ99c8)
+* 1992 - [The Lawnmower Man](https://www.youtube.com/watch?v=YCxFGxqLsHE)
 * 1993 - [Cronos](https://www.youtube.com/watch?v=YdxA9vIFmYw)
 * 1993 - [Body Melt](https://www.youtube.com/watch?v=PA0riGc6cWw)
 * 1996 - [Crash](https://www.youtube.com/watch?v=8dRrud8ClvA)
 * 1997 - [Lost Highway](https://www.youtube.com/watch?v=1nKjO9QCSic)
 * 1997 - [Funny Games](https://www.youtube.com/watch?v=tkbG1uSH0to)
 * 1999 - [Audition](https://www.youtube.com/watch?v=uR1DnkweK5U)
+* 1999 - [eXistenZ](https://www.youtube.com/watch?v=HAdbdUt_h9M)
 
 ## 2000-2009
 * 2000 - [Final Destination](https://www.youtube.com/watch?v=JuuMbzGECxE)
 * 2001 - [The Devil’s Backbone](https://www.youtube.com/watch?v=WVy3lmYnEUI)
 * 2005 - [The Descent](https://www.youtube.com/watch?v=CSYg7Z1KS_I)
+* 2005 - [Hidden](https://www.youtube.com/watch?v=pvT_9TqIEtM)
 * 2006 - [Inland Empire](https://www.youtube.com/watch?v=MsF7D02RO4A)
 * 2007 - [The Orphanage](https://www.youtube.com/watch?v=nUZQgqxIZ6s)
 * 2007 - [Teeth](https://www.youtube.com/watch?v=FuW_L8WJtMk)
@@ -109,3 +114,4 @@
 * 2015 - [Crimson Peak](https://www.youtube.com/watch?v=6yAbFYbi8XU)
 * 2016 - [Under the Shadow](https://www.youtube.com/watch?v=kHVFP80Upxw)
 * 2017 - [Get Out](https://www.youtube.com/watch?v=DzfpyUB60YY)
+* 2018 - [Mandy](https://www.youtube.com/watch?v=hRKVxT4-1wM)
