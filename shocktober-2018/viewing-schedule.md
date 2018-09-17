@@ -3,7 +3,7 @@
 ## Tentative viewing schedule:
 
 Date | Film | Genre | Sub-genre
------ | -------- | ------
+----- | -------- | ------ | ------
 Oct 1 | Dead Ringers (1988) | Body Horror | David Cronenberg & visceral horror
 Oct 2 | Re-Animator (1985) | Body Horror | David Cronenberg & visceral horror
 Oct 3 | Crash (1996) | Body Horror | David Cronenberg & visceral horror
