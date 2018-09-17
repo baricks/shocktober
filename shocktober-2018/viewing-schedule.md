@@ -3,7 +3,7 @@
 ## Tentative viewing schedule:
 
 Date | Film | Director | Genre | Sub-genre
------ | -------- | ------ | ------
+----- | -------- | ------ | ------ | ------
 Oct 1 | The Brood (1979) | David Cronenberg | Body Horror | Monster-baby anxieties
 Oct 2 | Dead Ringers (1988) | David Cronenberg | Body Horror | David Cronenberg & visceral horror
 Oct 3 | eXistenZ (1999) | David Cronenberg | Techno Horror | VR/gaming
