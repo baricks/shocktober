@@ -1,3 +1,3 @@
-# Movie club
+# Shocktober
 
-Rom-comrades is a movie club.
+Month-long screenings of horror films during the month of October. Now includes suggested readings + viewing schedule.
