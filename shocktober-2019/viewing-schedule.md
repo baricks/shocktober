@@ -33,3 +33,5 @@ Day 26 | [The Abominable Dr Phibes](https://www.youtube.com/watch?v=sxnr9xycVLo)
 Day 27 | [Mandy](https://www.youtube.com/watch?v=hRKVxT4-1wM) (2018) | Panos Cosmatos | Campy horror
 Day 28 | [Under the Skin](https://www.youtube.com/watch?v=CcR5KHjoc-0) (2013) | Jonathan Glazer | Erotic horror 
 Day 29 | [Onibaba](https://www.youtube.com/watch?v=sknsvtX68yw) (1964) | Kaneto Shindō | Erotic horror
+
+The full list can also be found on [here on Letterboxd](https://letterboxd.com/baricks/list/shocktober-2019/).
