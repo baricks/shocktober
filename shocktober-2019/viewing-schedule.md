@@ -4,7 +4,7 @@
 
 Date | Film | Director | Theme
 ----- | -------- | ------ | ------
-Day 1 | [Deep Red](https://www.youtube.com/watch?v=62YqwaSMN4E) (19759) | Dario Argento | Giallo horror (Italian)
+Day 1 | [Deep Red](https://www.youtube.com/watch?v=62YqwaSMN4E) (1975) | Dario Argento | Giallo horror (Italian)
 Day 2 | [Phenomena ](https://www.youtube.com/watch?v=Tt93yZUgJNQ') (1985) | Dario Argento | Giallo horror (Italian)
 Day 3 | [Black Sabbath](https://www.youtube.com/watch?v=JO8LJjLjncc) (1963) | Mario Bava | Giallo horror (Italian)
 Day 4 | [The Strange Vice of Mrs Wardh](https://www.youtube.com/watch?v=mqeTmeU1azw) (1971) | Sergio Martino | Giallo horror (Italian)
