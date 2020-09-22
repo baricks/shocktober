@@ -13,6 +13,7 @@
 * 1945 - [The Picture of Dorian Gray](https://www.youtube.com/watch?v=SVo86D_uw0A)
 
 ## 1950-1959
+* 1954 - [Rear Window](https://www.youtube.com/watch?v=m01YktiEZCw)
 * 1955 - [Diabolique](https://www.youtube.com/watch?v=AKB4CFmMMvQ)
 * 1955 - [The Night of the Hunter](https://www.youtube.com/watch?v=6LuSu5ZWmyg)
 * 1957 - [Night of the Demon](https://www.youtube.com/watch?v=jFlzcyd0yqA)
@@ -28,8 +29,10 @@
 * 1961 - [The Innocents](https://www.youtube.com/watch?v=aOsF0S65RR0)
 * 1961 - [The Pit and the Pendulum](https://www.youtube.com/watch?v=QChBy15UiTs)
 * 1962 - [Carnival of Souls](https://www.youtube.com/watch?v=VQ0PeAQFeSg)
+* 1962 - [The Exterminating Angel](https://www.youtube.com/watch?v=ERHL5nzEMmM)
 * 1963 - [Black Sabbath](https://www.youtube.com/watch?v=JO8LJjLjncc)
 * 1963 - [The Haunting](https://www.youtube.com/watch?v=AeAzGxWlEcg)
+* 1964 - [The Masque of the Red Death](https://www.youtube.com/watch?v=vCUtm7mCF4I)
 * 1964 - [Kwaidan](https://www.youtube.com/watch?v=MP8nwNvfNno)
 * 1964 - [Onibaba](https://www.youtube.com/watch?v=sknsvtX68yw)
 * 1965 - [Repulsion](https://www.youtube.com/watch?v=L8O-EFHbfp8)
@@ -42,9 +45,10 @@
 * 1968 - [Targets](https://www.youtube.com/watch?v=oiSc3xAXX5g)
 
 ## 1970-1979
-* 1971- [The Devils](https://www.youtube.com/watch?v=tPConeKY3WA)
+* 1971 - [The Devils](https://www.youtube.com/watch?v=tPConeKY3WA)
 * 1971 - [The Abominable Dr Phibes](https://www.youtube.com/watch?v=sxnr9xycVLo)
 * 1971 - [The Strange Vice of Mrs Wardh](https://www.youtube.com/watch?v=mqeTmeU1azw)
+* 1971 - [Daughters of Darkness](https://www.youtube.com/watch?v=DYEKxAtcA8M)
 * 1972 - [The Last House on the Left](https://www.youtube.com/watch?v=8W9KPhmYYtg)
 * 1973 - [Don't Look Now](https://www.youtube.com/watch?v=AUWB-Kw4FiM)
 * 1973 - [The Exorcist](https://www.youtube.com/watch?v=YDGw1MTEe9k)
@@ -58,7 +62,7 @@
 * 1977 - [Hausu/House](https://www.youtube.com/watch?v=WQ_Yo06kIIA)
 * 1977 - [Eraserhead](https://www.youtube.com/watch?v=J0Eq5GtCYdA)
 * 1977 - [Suspiria](https://www.youtube.com/watch?v=MecSlkWMHPY)
-* 1977 - [The Sentinel ](https://www.youtube.com/watch?v=Z0YdJNeNXLE)
+* 1977 - [The Sentinel](https://www.youtube.com/watch?v=Z0YdJNeNXLE)
 * 1978 - [Halloween](https://www.youtube.com/watch?v=DLEk6hES03Q)
 * 1978 - [Invasion of the Body Snatchers](https://www.youtube.com/watch?v=52vK2-Dv1TA)
 * 1979 - [Nosferatu The Vampyre](https://www.youtube.com/watch?v=S1Rachk7ipI)
@@ -74,9 +78,10 @@
 * 1981 - [An American Werewolf in London](https://www.youtube.com/watch?v=_oJZjpHBskc)
 * 1981 - [Scanners](https://www.youtube.com/watch?v=FoIy7Y7H72Q)
 * 1981 - [The Beyond](https://www.youtube.com/watch?v=ef0oH3ZizfI)
-* 1981 - [Possession](https://www.youtube.com/watch?v=SInjlFxJ1kw)
+* 1981 - [Possession](https://www.youtube.com/watch?v=uDpFpzbwfiw)
 * 1982 - [Tenebrae](https://www.youtube.com/watch?v=OkUpGi2N8wo)
 * 1982 - [The Thing](https://www.youtube.com/watch?v=p35JDJLa9ec)
+* 1982 - [Blade Runner](https://www.youtube.com/watch?v=eogpIG53Cis)
 * 1983 - [Videodrome](https://www.youtube.com/watch?v=UFHey3utk0I)
 * 1983 - [The Dead Zone](https://www.youtube.com/watch?v=lmC5oPc7L3M)
 * 1983 - [The Hunger](https://www.youtube.com/watch?v=l9IDoAPC6Ps)
@@ -89,6 +94,7 @@
 * 1988 - [Dead Ringers](https://www.youtube.com/watch?v=-ZHbu3msmes)
 * 1988 - [The Vanishing](https://www.youtube.com/watch?v=ZIuBuGWCuZo)
 * 1988 - [Akira](https://www.youtube.com/watch?v=7mdMtuGL7eg)
+* 1988 - [They Live](https://www.youtube.com/watch?v=jTK8eff1Zsk)
 
 ## 1990-1999
 * 1990 - [Misery](https://www.youtube.com/watch?v=XHQ9CPRfDsw)
@@ -107,6 +113,8 @@
 ## 2000-2009
 * 2000 - [Final Destination](https://www.youtube.com/watch?v=JuuMbzGECxE)
 * 2001 - [The Devil’s Backbone](https://www.youtube.com/watch?v=WVy3lmYnEUI)
+* 2001 - [Trouble Every Day](https://www.youtube.com/watch?v=BRTgpR2Tau0)
+* 2002 - [In My Skin](https://www.youtube.com/watch?v=QTkH-gMPv3g)
 * 2005 - [The Descent](https://www.youtube.com/watch?v=CSYg7Z1KS_I)
 * 2005 - [Hidden](https://www.youtube.com/watch?v=pvT_9TqIEtM)
 * 2006 - [Inland Empire](https://www.youtube.com/watch?v=MsF7D02RO4A)
@@ -117,7 +125,7 @@
 * 2009 - [The House of the Devil](https://www.youtube.com/watch?v=AtXtSGRV0xc)
 * 2009 - [Amer](https://www.youtube.com/watch?v=FYcS09xisRE)
 
-## 2010-2018
+## 2010-2020
 * 2010 - [Black Swan](https://www.youtube.com/watch?v=5jaI1XOB-bs)
 * 2011 - [You're Next](https://www.youtube.com/watch?v=ufUQWpEkbf0)
 * 2011 - [The Innkeepers](https://www.youtube.com/watch?v=XRNJy3i0_C4)
@@ -129,3 +137,5 @@
 * 2016 - [Under the Shadow](https://www.youtube.com/watch?v=kHVFP80Upxw)
 * 2017 - [Get Out](https://www.youtube.com/watch?v=DzfpyUB60YY)
 * 2018 - [Mandy](https://www.youtube.com/watch?v=hRKVxT4-1wM)
+* 2019 - [Us](https://www.youtube.com/watch?v=hNCmb-4oXJA&)
+* 2020 - [Rebecca](https://www.youtube.com/watch?v=LFVhB54UqvQ)
