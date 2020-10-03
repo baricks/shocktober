@@ -1,0 +1,61 @@
+# Film blog
+<i>Daily notes and reflections on the horror films I'm watching in October 2020. </i>
+
+## Don't Look Now (1973)
+<i>Thematic category: 	Domestic disintegration</i>
+
+I'm kicking off this year's annual Shocktober tradition with a couple of movies that are more or less about marital discord. The first, "Don't Look Now" explores how misplaced fear and sexual longing prevents people from dealing with grief. I really loved this film's atmosphere and its grounding in place – death is everywhere in Venice – but at its heart the film is about two people struggling with the trauma of losing a child. Here we see some of the genre conventions of the classic ghost story used to explore deeper themes such as longing, obsession, grief, and fear.
+
+<img src="https://m.media-amazon.com/images/M/MV5BOTgwNTY2ZTUtZDEzYS00ZjRhLWI3N2QtODA0YTNiMjhmMjExXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_SX1777_CR0,0,1777,960_AL_.jpg" width="800"> </img>
+
+Directed by Nicolas Roeg and based on the short story by Daphne du Maurier, "Don't Look Now" is a story about misplaced grief and marital estrangement, centering on the relationship between John Baxter (Donald Sutherland) and Laura Baxter (Julie Christie) as they come to terms with the tragic death of their young daughter. After their daughter's death in a terrible drowning accident, the couple moves to Venice where John is working on the restoration of a church. A psychic woman warns the couple that their daughter is trying to communicate about danger. John dismisses the women, but slowly he starts seeing visions of his daughter. Meanwhile, the city is plagued by a mysterious serial killer who is murdering young women in the canals. Consumed by grief, John fails to see the warning signs before it's too late.
+
+Groundbreaking in his editing style, Roeg cuts fragmented flashbacks and flashforwards into the narrative, blurring the lines between past, present, and future. I think that contemporary audiences might not realize how innovative this style of filmmaking was at its time. In one of the best scenes of the film, images of the couple having sex is cut with shots of them getting dressed afterward, mixing the erotic with the mundane. The effect is disorienting and serves to reinforce feelings of confusion and fear, sex and "displaced sexual longing." [1] It's ranked as #1 on the IFC's "50 Greatest Sex Scenes in Cinema." 
+
+<img src="https://artsmeme.com/wp-content/uploads/2018/12/dont-look.jpg" width="800"> </img>
+
+The visual language of this film give us so much to work with. There are lots of recurring symbols and themes that provide visual clues without revealing too much.
+
+#### Red
+The color red immediately stands out: John and Laura's daughter was wearing a bright red raincoat when she drowned. A red hooded figure appears in a photograph of a Venetian church right before the death. John keeps seeing someone in a red raincoat sneaking around corners in Venice. We're led to believe this apparition is supernatural: a psychic woman tells Laura that her daughter is trying to communicate with them and John seems to have premonitions of danger.
+
+"The red coat symbolises the tonal ambiguity, or superimposition of the erotic and the uncanny. Pathos and grief become fear and horror, overlaid with an insistent sensual charge. The figure in the red coat is both agonisingly vulnerable and menacing, and only in the final moments do we understand that combination." [2]
+
+<img src="http://moviemezzanine.com/wp-content/uploads/large_dont_look_now_01X_blu-ray_-1140x641.jpg" width="800"> </img>
+
+<img src="https://3.bp.blogspot.com/-dY6jFQHQTJQ/ULEZkxwI2nI/AAAAAAAAEp8/49qV1JwaAcg/s1600/01-39-13-church.jpg" width="800"> </img>
+
+#### Water
+<i>Laura: If the world is round, why is a frozen lake flat?...Here it says that Lake Ontario curves more than 3 degrees from its Eastern end to its Western end. So frozen water really isn't flat.
+
+John: Nothing is what it seems.</i>
+
+Early in the film water is established as a recurring symbol. The daughter drowns in a lake, appearing underwater in a striking image as the dying Ophelia. In Venice, waterways and canals define the city. Murders and funerals all take place in the waterways, hinting at the death that will come. At the same time, water comes to represent ambiguity - reflective surfaces create mirror images, disorienting the viewer. As John says at the start of the movie, "Nothing is what it seems."
+
+<img src="https://miro.medium.com/max/1680/1*nemW5pASVtDwIumOMxbAzA.png" width="800"> </img>
+
+#### Doppelgangers
+Mirrors are everywhere in this film, and glass shattering is an omen for impending disaster. A child rides his bicycle over a shatterend mirror right before his sister drowns. A wood beam crashes through a glass surface before John nearly falls to his death. Scenes appear through the multi-panel mirrors in the ladies' powder room and then later in the mirrors of the couple's bathroom. The reflective surfaces hint at the ambiguity and mistaken identity that is central to the film. In their pain, John and Laura are unable to see clearly what is right in front of them. 
+
+<img src="https://www.framerated.co.uk/frwpcontent/uploads/2019/07/DontLookNow07.jpg" width="800"> </img>
+
+#### Venice
+Venice is represented as lifeless, inert, and death itself. Tourists are nowhere to be found on the streets. Hotels are closing for the season and all the hotel furniture are covered in sheets. As a psychic woman puts it, Venice is "like a city in aspic, wrapped over from a dinner party, where all the guests are dead or gone." In one striking scene, John sees his wife on a funeral boat at a time when she was supposed to be back in the UK. It turns out that his vision was a premonition of the future: She would soon ride on his own funeral boat.
+
+In reading about the origins of the Daphne du Maurier short story upon which the film was based, I was surprised to learn that du Maurier herself was queer. She wrote the short story while she was visiting Venice to grieve the loss of her longtime lover. In retrospect, I probably should have picked up on some of the queer themes in her book "Rebecca" (Danvers' obsession with Rebecca verges on the sexual, the central heterosexual relationship is weird, and the books gives zero fucks about Mr. de Winter's character development). Similar to Don't Look Now, Rebecca on its surface also seems to be a supernatural ghost story, but slowly it's revealed that this is a grounded story about human relationships.
+
+"For Daphne du Maurier, "Venetian" was her private word for lesbian, and she herself had a lifelong struggle to come to terms with her own homosexuality, never far from the surface. Furthermore, "going to Venice" was her private code for having a lesbian sexual adventure. Crucially, Du Maurier herself, long before this story was written, went to Venice to get over the death of someone dear to her – her lover Gertrude Lawrence – and it may have been on this visit (although she made a number of literal visits to Venice) that she herself mistook a dwarf for a child. Denial and fear and excitement are transformed, in this story, into a tale of supernatural longing and horror." [3]
+
+<img src="https://www.framerated.co.uk/frwpcontent/uploads/2019/07/DontLookNow20.jpg" width="800"> </img>
+
+"Don't Look Now" is a classic of the horror genre, with a lot to unpack. It does what I think horror does best - uses the genre as a medium to explore deeper psychological themes like obsession, sexuality, grief, loss, estrangement, and fear. Next up: Possession (1981) and Lost Highway (1997), two films that also explore the theme of "domestic disintegration."
+
+### References
+
+[1] Peter Bradshaw, "Don't Look Now and Roeg's red coat," The Guardian, https://www.theguardian.com/film/2011/jan/18/dont-look-now-red-coat. 
+
+[2] Bradshaw
+
+[3] Bradshaw
+
+### Further reading
