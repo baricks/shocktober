@@ -12,11 +12,11 @@ Here we see some of the genre conventions of the classic ghost story used to exp
 
 Directed by Nicolas Roeg and based on the short story by Daphne du Maurier, "Don't Look Now" is a story about marital estrangement, centering on the relationship between John Baxter (Donald Sutherland) and Laura Baxter (Julie Christie) as they come to terms with the tragic death of their young daughter. After their daughter's drowning accident, the couple move to Venice where John is working on the restoration of a church. A psychic woman warns them that their daughter is trying to communicate with them about danger. John dismisses the woman, but slowly he starts seeing visions of his daughter. Meanwhile, the city is plagued by a mysterious serial killer who is murdering young women in the canals. 
 
-Groundbreaking in his editing style, Roeg cuts fragmented flashbacks and flashforwards into the narrative, blurring the lines between past, present, and future. I think that contemporary audiences might not realize how innovative this style of filmmaking was at its time. In one of the best scenes of the film, images of the couple having sex is cut with shots of them getting dressed afterward, mixing the erotic with the mundane. The effect is disorienting and serves to reinforce feelings of confusion and fear, sex and "displaced sexual longing." [1] (By the way, it's ranked as #1 on the IFC's "50 Greatest Sex Scenes in Cinema" so I guess it gotten some critical recognition).
+Groundbreaking in his editing style, Roeg cuts fragmented flashbacks and flashforwards into the narrative, blurring the lines between past, present, and future. I think that contemporary audiences might not realize how innovative this style of filmmaking was at its time. In one of the best scenes of the film, images of the couple having sex is cut with shots of them getting dressed afterward, mixing the erotic with the mundane. The effect is disorienting and serves to reinforce feelings of confusion and fear, sex and "displaced sexual longing." [1] (By the way, it's ranked as #1 on the IFC's "50 Greatest Sex Scenes in Cinema" so I guess it got some critical recognition).
 
 <img src="https://artsmeme.com/wp-content/uploads/2018/12/dont-look.jpg" width="800"> </img>
 
-The visual language of this film give us so much to work with. There are lots of recurring symbols and themes that provide visual clues without revealing too much.
+The visual language of this film give us so much to work with.
 
 #### Red
 The color red is used in the film to connect important details. John and Laura's daughter was wearing a bright red raincoat when she drowned. A red hooded figure appears in a photograph of a Venetian church. John sees someone in a red raincoat sneaking around corners in Venice. We're led to believe this apparition is supernatural: a psychic woman tells Laura that her daughter is trying to communicate with them.
@@ -37,7 +37,7 @@ Early in the film water is established as a recurring symbol. In the opening sce
 <img src="https://miro.medium.com/max/1680/1*nemW5pASVtDwIumOMxbAzA.png" width="800"> </img>
 
 #### Doppelgangers
-Mirrors are everywhere in this film, and glass is an omen for impending disaster. A child rides his bicycle over a shatterend mirror right before his sister drowns. John drops his wine glass before Laura faints. A wood beam crashes through a glass surface before John nearly falls to his death. Scenes repeatedly appear through multi-panel mirrors, both in the ladies' powder room and the couple's bathroom. Here, reflective surfaces hint at the doppelgangers and mistaken identity that will become central to the film's conclusion. In their pain, John and Laura are unable to see clearly what is right in front of them. 
+Mirrors and reflective surfaces are everywhere in this film, and glass is an omen for impending disaster. A child rides his bicycle over a shatterend mirror right before his sister drowns. John drops his wine glass before Laura faints. A wood beam crashes through a glass surface before John nearly falls to his death. Scenes repeatedly appear through multi-panel mirrors, both in the ladies' powder room and the couple's bathroom. Reflective surfaces hint at the doppelgangers and blurred identities that build up to the drama of the film's conclusion. In their pain, John and Laura are unable to see clearly what is right in front of them. 
 
 <img src="https://www.framerated.co.uk/frwpcontent/uploads/2019/07/DontLookNow07.jpg" width="800"> </img>
 
@@ -48,7 +48,7 @@ Venice is represented as lifeless, inert, and a symbol of death. Tourists are no
 
 In reading about the origins of the Daphne du Maurier short story upon which the film was based, I was surprised to learn that du Maurier herself was queer. She wrote the short story while she was visiting Venice to grieve the loss of her longtime lover. In retrospect, I probably should have picked up on some of the queer themes in her book "Rebecca" (Danvers' obsession with Rebecca verges on the sexual, the central heterosexual relationship is weird, and the books gives zero fucks about Mr. de Winter's character development). Similar to Don't Look Now, Rebecca on its surface also seems to be a supernatural ghost story, but slowly it's revealed that this is a grounded story about human relationships.
 
-<img src="https://i.guim.co.uk/img/media/8465b074a7d6daefda94f291b6c5204aeb4b0b2b/23_700_1612_967/master/1612.jpg" width="800"> </img>
+<img src="https://i.guim.co.uk/img/media/8465b074a7d6daefda94f291b6c5204aeb4b0b2b/23_700_1612_967/master/1612.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=d8b2a885e17fb675511537a4be4d738b" width="800"> </img>
 
 "For Daphne du Maurier, "Venetian" was her private word for lesbian, and she herself had a lifelong struggle to come to terms with her own homosexuality, never far from the surface. Furthermore, "going to Venice" was her private code for having a lesbian sexual adventure. Crucially, Du Maurier herself, long before this story was written, went to Venice to get over the death of someone dear to her – her lover Gertrude Lawrence – and it may have been on this visit (although she made a number of literal visits to Venice) that she herself mistook a dwarf for a child. Denial and fear and excitement are transformed, in this story, into a tale of supernatural longing and horror." [3]
 
