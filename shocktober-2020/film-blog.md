@@ -1,8 +1,17 @@
 # Film blog
-<i>Daily notes and reflections on the horror films I'm watching in October 2020. </i>
+<i>Notes and reflections on some of the horror films I'm watching in October 2020. </i>
+
+## The Lost Highway (1997) + Vertigo (1958)
+
+For the double feature, I watched two films about psychological obsession: David Lynch's "The Lost Highway" and Alfred Hitchcock's "Vertigo." In both films, the male protagonist is consumed by an obsession with a woman. In Vertigo, that woman is Kim Novak's dual Madeleine/Judy, and in The Lost Highway, the woman is Patricia Arquette's dual Renee/Alice. The female characters exist as projections of the protagonist's obsession, occupying roles he dictates or imagines.
+
+<img src="https://moviebarfcom.files.wordpress.com/2017/01/48386-lost-highway-photos-9.png" width="800"> </img>
+
+<img src="https://cms-assets.theasc.com/imager/cms-assets_theasc_com/Vertigo-Sillo_248ed78b6649d6cda0fcadc1ac9bc23e.jpg" width="800"> </img>
+
+Lynch's Highway is clearly influenced by Vertigo: the plotlines in both films revolve around a man who is obsessed with a woman, she is killed (by him?), and then her double shows up later. In both films, the women represent two halves of the same whole: brunette/blonde, Madonna/whore, virginal/sexual.
 
 ## Don't Look Now (1973)
-<i>Thematic category: 	Domestic disintegration</i>
 
 I'm kicking off this year's annual Shocktober tradition with a couple of movies that are more or less about marital discord. The first, "Don't Look Now" explores how misplaced fear and sexual longing prevents people from dealing with grief. I really loved this film's atmosphere and its grounding in place – death is everywhere in Venice – but at its heart the film is about two people struggling with the trauma of losing a child. 
 
@@ -12,7 +21,7 @@ Here we see some of the genre conventions of the classic ghost story used to exp
 
 Directed by Nicolas Roeg and based on the short story by Daphne du Maurier, "Don't Look Now" is a story about marital estrangement, centering on the relationship between John Baxter (Donald Sutherland) and Laura Baxter (Julie Christie) as they come to terms with the tragic death of their young daughter. After their daughter's drowning accident, the couple move to Venice where John is working on the restoration of a church. A psychic woman warns them that their daughter is trying to communicate with them about danger. John dismisses the woman, but slowly he starts seeing visions of his daughter. Meanwhile, the city is plagued by a mysterious serial killer who is murdering young women in the canals. 
 
-Groundbreaking in his editing style, Roeg cuts fragmented flashbacks and flashforwards into the narrative, blurring the lines between past, present, and future. I think that contemporary audiences might not realize how innovative this style of filmmaking was at its time. In one of the best scenes of the film, images of the couple having sex is cut with shots of them getting dressed afterward, mixing the erotic with the mundane. The effect is disorienting and serves to reinforce feelings of confusion and fear, sex and "displaced sexual longing." [1] (By the way, it's ranked as #1 on the IFC's "50 Greatest Sex Scenes in Cinema" so I guess it got some critical recognition).
+Groundbreaking in his editing style, Roeg cuts fragmented flashbacks and flashforwards into the narrative, blurring the lines between past, present, and future. I think that contemporary audiences might not realize how innovative this style of filmmaking was at its time. In one of the best scenes of the film, images of the couple having sex is cut with shots of them getting dressed afterward, mixing the erotic with the mundane. 
 
 <img src="https://artsmeme.com/wp-content/uploads/2018/12/dont-look.jpg" width="800"> </img>
 
