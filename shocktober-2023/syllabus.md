@@ -73,7 +73,7 @@
     * The Brood (1979)
     * Huesera: The Bone Woman (2022)
 
-### "alien invasion; 80s anxieties; government conspiracy; military expansion
+### alien invasion; 80s anxieties; government conspiracy; military expansion
 * Readings:
     * TBD
 * Films:
