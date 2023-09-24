@@ -9,13 +9,13 @@ Films:
 Readings:
 * Tenebrae
    * [La Dolce Morte: Vernacular Cinema and the Italian Giallo Film](https://www.goodreads.com/en/book/show/133165)
-   * [“Tenebre, EUR, and the Postmetropolis” (Chapter 3)] (https://www.proquest.com/openview/63df3e94dd34cd00270a00555d516815/1?pq-origsite=gscholar&cbl=18750)
-   * [“Mirrors of Reality: Art and Modernity in the Cinema of Dario Argento”] (https://revistas.unal.edu.co/index.php/estetica/article/view/95328/80103)
+   * [“Tenebre, EUR, and the Postmetropolis” (Chapter 3)](https://www.proquest.com/openview/63df3e94dd34cd00270a00555d516815/1?pq-origsite=gscholar&cbl=18750)
+   * [“Mirrors of Reality: Art and Modernity in the Cinema of Dario Argento”](https://revistas.unal.edu.co/index.php/estetica/article/view/95328/80103)
 * Diabolique
-   * [“Eliminating the Detective: Boileau-Narcejac, Clouzot, and Les Diaboliques”] (https://brill.com/display/book/9789004486331/B9789004486331_s007.xml)
+   * [“Eliminating the Detective: Boileau-Narcejac, Clouzot, and Les Diaboliques”](https://brill.com/display/book/9789004486331/B9789004486331_s007.xml)
    * [“Diabolically Clever – Clouzot’s French Noir Les Diaboliques”](https://link.springer.com/chapter/10.1057/9780230282018_7)
-   * [“Suspense and surveillance: Les Diaboliques and Les Espions”] (https://www.manchesterhive.com/display/9781847791771/9781847791771.00010.xml)
-   * [“​​Une Peinture Morale: Intertextuality in Clouzot's Les Diaboliques”] (https://www.proquest.com/docview/1321732937?pq-origsite=gscholar&fromopenview=true)
+   * [“Suspense and surveillance: Les Diaboliques and Les Espions”](https://www.manchesterhive.com/display/9781847791771/9781847791771.00010.xml)
+   * [“​​Une Peinture Morale: Intertextuality in Clouzot's Les Diaboliques”](https://www.proquest.com/docview/1321732937?pq-origsite=gscholar&fromopenview=true)
 
 ### Permeable techno-bodies
 * Readings:
