@@ -1,14 +1,23 @@
 ## Thematic areas
 
-### murder plot; murder mystery; supernatural/religious horror
-* Readings:
-    * TBD
-* Films:
-    * Tenebrae (1982)
-    * The Wailing (2016)
-    * Diabolique (1955)
+### Detective noir, social transformation & the city
+Films:
+* Tenebrae (1982)
+* The Wailing (2016)
+* Diabolique (1955)
 
-### techno-fantasies; body hacking; gaming; social media
+Readings:
+* Tenebrae
+   * La Dolce Morte: Vernacular Cinema and the Italian Giallo Film (book) [https://www.goodreads.com/en/book/show/133165]
+   * “Tenebre, EUR, and the Postmetropolis” (Dissertation, Chapter 3) [https://www.proquest.com/openview/63df3e94dd34cd00270a00555d516815/1?pq-origsite=gscholar&cbl=18750]
+   * “Mirrors of Reality: Art and Modernity in the Cinema of Dario Argento” (article) [https://revistas.unal.edu.co/index.php/estetica/article/view/95328/80103]
+* Diabolique
+   * “Eliminating the Detective: Boileau-Narcejac, Clouzot, and Les Diaboliques” (paper) [https://brill.com/display/book/9789004486331/B9789004486331_s007.xml]
+   * “Diabolically Clever – Clouzot’s French Noir Les Diaboliques” (book chapter) [https://link.springer.com/chapter/10.1057/9780230282018_7]
+   * “Suspense and surveillance: Les Diaboliques and Les Espions” (book chapter) [https://www.manchesterhive.com/display/9781847791771/9781847791771.00010.xml]
+   * “​​Une Peinture Morale: Intertextuality in Clouzot's Les Diaboliques” (paper) [https://www.proquest.com/docview/1321732937?pq-origsite=gscholar&fromopenview=true]
+
+### Permeable techno-bodies
 * Readings:
     * TBD
 * Films:
