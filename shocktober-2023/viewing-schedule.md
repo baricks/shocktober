@@ -4,13 +4,13 @@
 
 Date | Film | Director | Language | Theme
 ----- | -------- | ------ | ------ | ------
-Day 1 | [Tenebrae](https://www.youtube.com/watch?v=uDpFpzbwfiw) (1982) | Dario Argento | Italian; English | -
-Day 2 | [The Wailing](https://www.youtube.com/watch?v=43uAputjI4k) (2016) | Na Hong-shin | Korean | -
-Day 3 | [Diabolique](https://www.youtube.com/watch?v=BzbGtjtfZwA) (1955) | Henri-Georges Clouzot | French | -
-Day 4 | [Videodrome](https://www.youtube.com/watch?v=UFHey3utk0I&pp=ygUSdmlkZW9kcm9tZSB0cmFpbGVy)  (1983) | David Cronenberg | English | -
-Day 5 | [eXistenZ](https://www.youtube.com/watch?v=CXgOUa91GHg) (1999) | David Cronenberg | English | -
-Day 6 | [The Vast of Night](https://www.youtube.com/watch?v=ZEiwpCJqMM0) (2019) | Andrew Patterson | English | -
-Day 7 | [We're All Going to the World's Fair](https://www.youtube.com/watch?v=ZEiwpCJqMM0) (2021) | Jane Schoenbrun | English | -
+Day 1 | [Tenebrae](https://www.youtube.com/watch?v=uDpFpzbwfiw) (1982) | Dario Argento | Italian; English | Detective noir, social transformation & the city
+Day 2 | [The Wailing](https://www.youtube.com/watch?v=43uAputjI4k) (2016) | Na Hong-shin | Korean | Detective noir, social transformation & the city
+Day 3 | [Diabolique](https://www.youtube.com/watch?v=BzbGtjtfZwA) (1955) | Henri-Georges Clouzot | French | Detective noir, social transformation & the city
+Day 4 | [Videodrome](https://www.youtube.com/watch?v=UFHey3utk0I&pp=ygUSdmlkZW9kcm9tZSB0cmFpbGVy)  (1983) | David Cronenberg | English | Permeable techno-bodies
+Day 5 | [eXistenZ](https://www.youtube.com/watch?v=CXgOUa91GHg) (1999) | David Cronenberg | English | Permeable techno-bodies
+Day 6 | [The Vast of Night](https://www.youtube.com/watch?v=ZEiwpCJqMM0) (2019) | Andrew Patterson | English | Permeable techno-bodies
+Day 7 | [We're All Going to the World's Fair](https://www.youtube.com/watch?v=ZEiwpCJqMM0) (2021) | Jane Schoenbrun | English | Permeable techno-bodies
 Day 8 | [Speak No Evil](https://www.youtube.com/watch?v=d2ekCkhkiXo&ab_channel=ZFFZurichFilmFestival) (2022) | Christian Tafdrup | Danish; Dutch | -
 Day 9 | [Funny Games](https://www.youtube.com/watch?v=Ec-70W_K77U) (1997) | Michael Haneke | German; French | -
 Day 10 | [Prince of Darkness](https://www.youtube.com/watch?v=PkBSEWy8WfY&ab_channel=ScreamFactoryTV) (1987) | John Carpenter | English | -
