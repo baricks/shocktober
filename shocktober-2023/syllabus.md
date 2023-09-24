@@ -18,13 +18,29 @@ Readings:
    * [“​​Une Peinture Morale: Intertextuality in Clouzot's Les Diaboliques”](https://www.proquest.com/docview/1321732937?pq-origsite=gscholar&fromopenview=true)
 
 ### Permeable techno-bodies
-* Readings:
-    * TBD
-* Films:
-    * Videodrome (1983)
-    * eXistenZ (1999)
-    * The Vast of Night (2019)
-    * We're All Going to the World's Fair (2021)
+Films:
+* Videodrome (1983)
+* eXistenZ (1999)
+* The Vast of Night (2019)
+* We're All Going to the World's Fair (2021)
+
+Readings:
+* Videodrome (1983)
+  * [“David Cronenberg: Panic horror and the postmodern body”](http://journals.uvic.ca/index.php/ctheory/article/view/14226/5002)
+  * [“Voices from the Periphery: Videodrome and the (pre) Postmodern Vision of Marshall McLuhan”](http://eprints.worc.ac.uk/363/1/videodrome[1].pdf)
+  * [“Excess and Resistance in Feminised Bodies: David Cronenberg’s Videodrome and Jean Baudrillard’s Seduction”](http://www.sensesofcinema.com/2004/perversion/videodrome_seduction/)
+  * [“Reconceptualizing David Cronenberg’s Videodrome in the Age of Social Media”](https://www.tandfonline.com/doi/abs/10.1080/10509208.2019.1639483)
+  * [““Long Live the New Flesh”? David Cronenberg’s Videodrome and the Limits of Ovidian Metamorphosis”](https://brill.com/display/book/edcoll/9789042027152/B9789042027152-s018.xml)
+* eXistenZ (1999)
+  * [“David Cronenberg Talks About ExistenZ and Reality”](https://takeone.athabascau.ca/index.php/takeone/article/download/603/595)
+  * [“eXistenZ and the spectre of gender in the cyber-generation”](https://intellectdiscover.com/content/journals/10.1386/ncin.5.2.99_1)
+  * [“eXistenZ by David Cronenberg: cyber-fictions for a post-humanity”](https://www.raco.cat/index.php/Digithum/article/download/18518/488428)
+  * [““Jacking-in”: New Media Play and the Permeable Self”](https://scholarship.rollins.edu/cgi/viewcontent.cgi?article=1097&context=specs)
+  * [“"Still in the Game": Cybertransformations of the "New Flesh" in David Cronenberg's eXistenZ”](https://muse.jhu.edu/pub/15/article/46029/summary)
+* We're All Going to the World's Fair (2021)
+  * [Jane Schoenbrun on the film](https://bfidatadigipres.github.io/new%20releases/2022/04/29/were-all-going-to-the-worlds-fair/)
+  * [“Thriving In Agony: The Covid-19: Pandemic Brings A New Cycle of Horror”](https://soar.suny.edu/bitstream/handle/20.500.12648/11809/6442_Nicole_Pena.pdf?sequence=1&isAllowed=y)
+
 
 ### societal horror/social niceties; personal boundaries; spectatorship of violence
 * Readings:
